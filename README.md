@@ -1,5 +1,8 @@
 ## Hi there 👋 My name is William Agbo.
-I am a data-driven professional with 10+ years of analytical expertise transitioning from biomedical science to data analytics. I am particularly interested in AI, machine learning and all things data science. My favourite tools are Python and Tableau. I am studying for an MS in Business & Data Analytics. When I am not trying to make sense of some dataset, I am looking for ways to teach young children to study the Bible more effectively.
+I am a data-driven professional with 10+ years of analytical expertise transitioning from biomedical science to data analytics. I am particularly interested in AI, machine learning and all things data science. I am studying for an MS in Business & Data Analytics. When I am not trying to make sense of some dataset, I am looking for ways to teach young children to study the Bible more effectively.
+
+## I'm currently using
+- Python • R • SQL • Tableau • Power BI • Machine Learning
 
 ## 🛠 I’m currently working on
 - My thesis: **The Application of Prescriptive Analytics in Operational Efficiency Optimization in Healthcare Management**.
@@ -10,6 +13,7 @@ I am a data-driven professional with 10+ years of analytical expertise transitio
 - How to deploy offline AI models
 
 ## 📫 How to reach me:
+Email: williamagbo@gmail.com
 LinkedIn: https://www.linkedin.com/in/williamagbo/
 
 
