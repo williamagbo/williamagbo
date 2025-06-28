@@ -1,8 +1,8 @@
-## Hi there 👋. My name is William Agbo.
-
----
+## Hi there 👋 My name is William Agbo.
+I am a data-driven professional with 10+ years of analytical expertise transitioning from biomedical science to data analytics. I am particularly interested in AI, machine learning and all things data science. My favourite tools are Python and Tableau. When I am not trying to make sense of some dataset, I am looking for ways to teach young children to study the Bible more effectively.
 
 ## 🔭 I’m currently working on
+
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
